@@ -43,6 +43,7 @@ npm run test
 
 ```ts
 import { DogAPI } from '../src/index';
+```
 
 ## API Methods  
 
