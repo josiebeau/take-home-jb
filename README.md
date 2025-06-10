@@ -1,6 +1,6 @@
 # Dog API
 
-Using The Dog API(https://thedogapi.com/) to create a Typescript Library
+https://thedogapi.com/
 
 ## Setup
 
